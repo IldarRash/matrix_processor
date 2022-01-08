@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
